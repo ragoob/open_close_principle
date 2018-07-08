@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\Open_close_principle\Open_close_principle.Server\bin\Debug\Open_close_principle.Server.dll
+c:\users\administrator\source\repos\Open_close_principle\Open_close_principle.Server\bin\Debug\Open_close_principle.Server.pdb
+c:\users\administrator\source\repos\Open_close_principle\Open_close_principle.Server\bin\Debug\Open_close_principle.Abstraction.dll
+c:\users\administrator\source\repos\Open_close_principle\Open_close_principle.Server\bin\Debug\Open_close_principle.Abstraction.pdb
+c:\users\administrator\source\repos\Open_close_principle\Open_close_principle.Server\obj\Debug\Open_close_principle.Server.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\Open_close_principle\Open_close_principle.Server\obj\Debug\Open_close_principle.Server.dll
+c:\users\administrator\source\repos\Open_close_principle\Open_close_principle.Server\obj\Debug\Open_close_principle.Server.pdb
